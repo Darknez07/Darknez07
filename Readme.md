@@ -1,0 +1,1 @@
+<a href="#"><img alt="Darknez's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Darknez07&show_icons=true&count_private=true&theme=dark" /></a> 
