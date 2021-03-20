@@ -4,10 +4,10 @@
 <img alt="Darknez's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darknez07&langs_count=5&theme=tokyonight" />
 <!--START_SECTION:waka-->
 ```text
-* Other      69 hrs 48 mins  ██████████████████████▓░░   90.18 % 
-* Java       4 hrs 54 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.34 % 
-* Python     2 hrs 20 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
-* Markdown   11 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
-* C          8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+Other      69 hrs 48 mins  ██████████████████████▓░░   90.18 % 
+Java       4 hrs 54 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.34 % 
+Python     2 hrs 20 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
+Markdown   11 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+C          8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 ```
 <!--END_SECTION:waka-->
