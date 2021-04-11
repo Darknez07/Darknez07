@@ -1,11 +1,11 @@
 ### Hi, I'm Rishi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" />  <img src="https://img.shields.io/badge/Data Scienctist-Python-blue?style=flat-square" />
 <!--START_SECTION:waka-->
 ```text
-Other    66 hrs 28 mins  ████████████████████▓░░░░   83.07 % 
-Java     6 hrs 52 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 % 
-Python   3 hrs 23 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
-C++      2 hrs 50 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
-Text     10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+Other    64 hrs 51 mins  ████████████████████░░░░░   80.47 % 
+Java     7 hrs 3 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
+Python   4 hrs 41 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
+C++      3 hrs 31 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
+Text     15 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
 ```
 <!--END_SECTION:waka-->
 <img alt="Darknez's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Darknez07&show_icons=true&count_private=true&theme=dark" />
