@@ -1,10 +1,10 @@
 ### Hi, I'm Rishi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" />  <img src="https://img.shields.io/badge/Data Scienctist-Python-blue?style=flat-square" />
 <!--START_SECTION:waka-->
 ```text
-Other    70 hrs 42 mins  █████████████████████▓░░░   87.31 % 
-Python   5 hrs 23 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.65 % 
-Java     4 hrs 29 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.54 % 
-CSV      12 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+Other    68 hrs 9 mins   █████████████████████▓░░░   86.88 % 
+Python   5 hrs 39 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.22 % 
+Java     4 hrs 12 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
+CSV      13 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
 Text     7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 ```
 <!--END_SECTION:waka-->
