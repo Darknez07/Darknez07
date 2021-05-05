@@ -1,4 +1,4 @@
-### Hi, I'm Rishi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" />  <img src="https://img.shields.io/badge/Data Scienctist-Python-blue?style=flat-square" />
+### Hi, I'm Rishi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" />  <img src="https://img.shields.io/badge/Data Scientist-Python-blue?style=flat-square" />
 <!--START_SECTION:waka-->
 ```text
 Other    66 hrs 5 mins   █████████████████████▓░░░   86.31 % 
