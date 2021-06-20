@@ -18,7 +18,7 @@ Git Config   1 min           ░░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 <p>
-<img alt="Darknez's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darknez07&langs_count=5&theme=tokyonight&hide=Jupyter Notebook&layout=compact" />
+<img alt="Darknez's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darknez07&langs_count=6&theme=tokyonight&hide=Jupyter Notebook&layout=compact" />
 
 <img alt="Darknez's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Darknez07&show_icons=true&count_private=true&theme=dark" />
 </p>
