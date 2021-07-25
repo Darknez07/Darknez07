@@ -10,9 +10,9 @@
 <a href="https://archlinux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="70" height="70"/> </a>  
 <!--START_SECTION:waka-->
 ```text
-Other      61 hrs 40 mins  █████████████████████▒░░░   85.70 % 
-C++        5 hrs 14 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.29 % 
-Java       4 hrs 57 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.88 % 
+Other      64 hrs 47 mins  ██████████████████████░░░   87.86 % 
+Java       5 hrs 20 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.24 % 
+C++        3 hrs 31 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
 Markdown   4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 ```
 <!--END_SECTION:waka-->
