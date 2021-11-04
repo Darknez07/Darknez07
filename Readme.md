@@ -10,7 +10,7 @@
 <a href="https://archlinux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="70" height="70"/> </a>  
 <!--START_SECTION:waka-->
 ```text
-Other   33 hrs 10 mins  █████████████████████████   100.00 % 
+Other   32 hrs 22 mins  █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 <p>
