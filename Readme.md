@@ -16,7 +16,6 @@ Other   73 hrs 34 mins  ██████████████████�
 <p>
 
 <img alt="Darknez's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darknez07&langs_count=6&theme=tokyonight&hide=Jupyter Notebook&layout=compact" />\
-<img src="https://wakatime.com/share/@Darknez/31b7861e-2e57-48d0-8291-2e0df18a25a6.svg" style="width:30rem; height:20rem;">\
 <img alt="Darknez's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Darknez07&show_icons=true&count_private=true&theme=dark" />
 </p>
 
